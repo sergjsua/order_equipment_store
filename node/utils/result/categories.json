@@ -1,0 +1,959 @@
+[
+    {
+        "name": "Accessories"
+    },
+    {
+        "name": "Other Accessories",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Maintenance"
+    },
+    {
+        "name": "Maintenance",
+        "temp": {
+            "parentName": "Maintenance"
+        }
+    },
+    {
+        "name": "Conference Platforms and Bridges"
+    },
+    {
+        "name": "Conference Platforms and Bridges",
+        "temp": {
+            "parentName": "Conference Platforms and Bridges"
+        }
+    },
+    {
+        "name": "Mounting Kits, Hardware and Brackets",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Software"
+    },
+    {
+        "name": "Software",
+        "temp": {
+            "parentName": "Software"
+        }
+    },
+    {
+        "name": "Installation"
+    },
+    {
+        "name": "Installation",
+        "temp": {
+            "parentName": "Installation"
+        }
+    },
+    {
+        "name": "Security Appliances"
+    },
+    {
+        "name": "Security Appliances",
+        "temp": {
+            "parentName": "Security Appliances"
+        }
+    },
+    {
+        "name": "Software Support/Contracts"
+    },
+    {
+        "name": "Software Support/Contracts",
+        "temp": {
+            "parentName": "Software Support/Contracts"
+        }
+    },
+    {
+        "name": "Other Fees"
+    },
+    {
+        "name": "Other Fees",
+        "temp": {
+            "parentName": "Other Fees"
+        }
+    },
+    {
+        "name": "Other Services"
+    },
+    {
+        "name": "Other Services",
+        "temp": {
+            "parentName": "Other Services"
+        }
+    },
+    {
+        "name": "Communication Cables and Adapters",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Warranty Upgrade/Enhancement"
+    },
+    {
+        "name": "Warranty Upgrade/Enhancement",
+        "temp": {
+            "parentName": "Warranty Upgrade/Enhancement"
+        }
+    },
+    {
+        "name": "Mobile Computers"
+    },
+    {
+        "name": "Hand-Held",
+        "temp": {
+            "parentName": "Mobile Computers"
+        }
+    },
+    {
+        "name": "Chargers and Cradles",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Carrying and Protective Accessories",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Field Install Kits",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Batteries",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Power Supplies and Cords",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Vehicle Mounted",
+        "temp": {
+            "parentName": "Mobile Computers"
+        }
+    },
+    {
+        "name": "Monitors"
+    },
+    {
+        "name": "Touchscreen",
+        "temp": {
+            "parentName": "Monitors"
+        }
+    },
+    {
+        "name": "Terminals"
+    },
+    {
+        "name": "Standalone",
+        "temp": {
+            "parentName": "Terminals"
+        }
+    },
+    {
+        "name": "All-In-One/Kiosk",
+        "temp": {
+            "parentName": "Terminals"
+        }
+    },
+    {
+        "name": "Customer Displays"
+    },
+    {
+        "name": "Customer Displays",
+        "temp": {
+            "parentName": "Customer Displays"
+        }
+    },
+    {
+        "name": "Switches"
+    },
+    {
+        "name": "Switches",
+        "temp": {
+            "parentName": "Switches"
+        }
+    },
+    {
+        "name": "Power Distribution Modules"
+    },
+    {
+        "name": "Power Distribution Modules",
+        "temp": {
+            "parentName": "Power Distribution Modules"
+        }
+    },
+    {
+        "name": "Power Protection Devices"
+    },
+    {
+        "name": "UPS/Battery Backup",
+        "temp": {
+            "parentName": "Power Protection Devices"
+        }
+    },
+    {
+        "name": "Racks & Enclosures"
+    },
+    {
+        "name": "Storage Racks/Enclosures",
+        "temp": {
+            "parentName": "Racks & Enclosures"
+        }
+    },
+    {
+        "name": "Cash Drawers"
+    },
+    {
+        "name": "Cash Drawers",
+        "temp": {
+            "parentName": "Cash Drawers"
+        }
+    },
+    {
+        "name": "Tills",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Locks & Keys",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Cables, Connectors and Adapters",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Interfaces",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Spare Parts",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Integration Trays and Organizers",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Unified Communications",
+        "temp": {
+            "parentName": "Software"
+        }
+    },
+    {
+        "name": "Phones"
+    },
+    {
+        "name": "Desktop",
+        "temp": {
+            "parentName": "Phones"
+        }
+    },
+    {
+        "name": "Gateways"
+    },
+    {
+        "name": "Gateways",
+        "temp": {
+            "parentName": "Gateways"
+        }
+    },
+    {
+        "name": "Modules",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Servers"
+    },
+    {
+        "name": "Servers",
+        "temp": {
+            "parentName": "Servers"
+        }
+    },
+    {
+        "name": "Licenses",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Contact Center Solutions",
+        "temp": {
+            "parentName": "Software"
+        }
+    },
+    {
+        "name": "Access Points"
+    },
+    {
+        "name": "Access Points",
+        "temp": {
+            "parentName": "Access Points"
+        }
+    },
+    {
+        "name": "Phone Systems"
+    },
+    {
+        "name": "Phone Systems",
+        "temp": {
+            "parentName": "Phone Systems"
+        }
+    },
+    {
+        "name": "Solution Bundles"
+    },
+    {
+        "name": "Solution Bundles",
+        "temp": {
+            "parentName": "Solution Bundles"
+        }
+    },
+    {
+        "name": "Training"
+    },
+    {
+        "name": "Training",
+        "temp": {
+            "parentName": "Training"
+        }
+    },
+    {
+        "name": "Conference",
+        "temp": {
+            "parentName": "Phones"
+        }
+    },
+    {
+        "name": "Content Sharing Devices"
+    },
+    {
+        "name": "Presentation Systems",
+        "temp": {
+            "parentName": "Content Sharing Devices"
+        }
+    },
+    {
+        "name": "zz - ScanSource Services"
+    },
+    {
+        "name": "zz - ScanSource Services",
+        "temp": {
+            "parentName": "zz - ScanSource Services"
+        }
+    },
+    {
+        "name": "Headsets"
+    },
+    {
+        "name": "Headsets",
+        "temp": {
+            "parentName": "Headsets"
+        }
+    },
+    {
+        "name": "Scanners"
+    },
+    {
+        "name": "Hand-Held",
+        "temp": {
+            "parentName": "Scanners"
+        }
+    },
+    {
+        "name": "Chargers",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Cases, Covers & Carrying Accessories",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Barcode Label Printers"
+    },
+    {
+        "name": "Desktop/Light Duty",
+        "temp": {
+            "parentName": "Barcode Label Printers"
+        }
+    },
+    {
+        "name": "Kiosk",
+        "temp": {
+            "parentName": "Barcode Label Printers"
+        }
+    },
+    {
+        "name": "Receipt Printers"
+    },
+    {
+        "name": "Mobile",
+        "temp": {
+            "parentName": "Receipt Printers"
+        }
+    },
+    {
+        "name": "Payment Terminals"
+    },
+    {
+        "name": "Payment Terminals",
+        "temp": {
+            "parentName": "Payment Terminals"
+        }
+    },
+    {
+        "name": "Readers"
+    },
+    {
+        "name": "Readers",
+        "temp": {
+            "parentName": "Readers"
+        }
+    },
+    {
+        "name": "Media & Supplies"
+    },
+    {
+        "name": "Receipt Paper",
+        "temp": {
+            "parentName": "Media & Supplies"
+        }
+    },
+    {
+        "name": "Mobile",
+        "temp": {
+            "parentName": "Barcode Label Printers"
+        }
+    },
+    {
+        "name": "Labels",
+        "temp": {
+            "parentName": "Media & Supplies"
+        }
+    },
+    {
+        "name": "Monitors",
+        "temp": {
+            "parentName": "Monitors"
+        }
+    },
+    {
+        "name": "Presentation",
+        "temp": {
+            "parentName": "Scanners"
+        }
+    },
+    {
+        "name": "Fixed Mount",
+        "temp": {
+            "parentName": "Scanners"
+        }
+    },
+    {
+        "name": "Ribbons, Barcode",
+        "temp": {
+            "parentName": "Media & Supplies"
+        }
+    },
+    {
+        "name": "Printer Spare Parts"
+    },
+    {
+        "name": "Printer Spare Parts",
+        "temp": {
+            "parentName": "Printer Spare Parts"
+        }
+    },
+    {
+        "name": "Print Heads"
+    },
+    {
+        "name": "Label Printer",
+        "temp": {
+            "parentName": "Print Heads"
+        }
+    },
+    {
+        "name": "Print Stations"
+    },
+    {
+        "name": "Print Stations",
+        "temp": {
+            "parentName": "Print Stations"
+        }
+    },
+    {
+        "name": "Barcode Printing",
+        "temp": {
+            "parentName": "Software"
+        }
+    },
+    {
+        "name": "Tabletop/Heavy Duty",
+        "temp": {
+            "parentName": "Barcode Label Printers"
+        }
+    },
+    {
+        "name": "Cleaning Supplies",
+        "temp": {
+            "parentName": "Media & Supplies"
+        }
+    },
+    {
+        "name": "Print Engines/Print & Apply",
+        "temp": {
+            "parentName": "Barcode Label Printers"
+        }
+    },
+    {
+        "name": "Modems"
+    },
+    {
+        "name": "Modems",
+        "temp": {
+            "parentName": "Modems"
+        }
+    },
+    {
+        "name": "Bezels",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Digital Signage"
+    },
+    {
+        "name": "Displays",
+        "temp": {
+            "parentName": "Digital Signage"
+        }
+    },
+    {
+        "name": "Controllers",
+        "temp": {
+            "parentName": "Digital Signage"
+        }
+    },
+    {
+        "name": "Storage",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Check Readers",
+        "temp": {
+            "parentName": "Readers"
+        }
+    },
+    {
+        "name": "Counter-Top",
+        "temp": {
+            "parentName": "Receipt Printers"
+        }
+    },
+    {
+        "name": "Ink Cartridges",
+        "temp": {
+            "parentName": "Media & Supplies"
+        }
+    },
+    {
+        "name": "Slip Printers"
+    },
+    {
+        "name": "Counter-Top",
+        "temp": {
+            "parentName": "Slip Printers"
+        }
+    },
+    {
+        "name": "Document Printers"
+    },
+    {
+        "name": "Document Printers",
+        "temp": {
+            "parentName": "Document Printers"
+        }
+    },
+    {
+        "name": "Intelligent",
+        "temp": {
+            "parentName": "Receipt Printers"
+        }
+    },
+    {
+        "name": "Ribbons, Impact",
+        "temp": {
+            "parentName": "Media & Supplies"
+        }
+    },
+    {
+        "name": "Headset Accessories",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Antennas",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Wristbands",
+        "temp": {
+            "parentName": "Media & Supplies"
+        }
+    },
+    {
+        "name": "Kiosk",
+        "temp": {
+            "parentName": "Receipt Printers"
+        }
+    },
+    {
+        "name": "Other Media & Supplies",
+        "temp": {
+            "parentName": "Media & Supplies"
+        }
+    },
+    {
+        "name": "Ribbons, Card Printer",
+        "temp": {
+            "parentName": "Media & Supplies"
+        }
+    },
+    {
+        "name": "PoE Devices",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Controllers"
+    },
+    {
+        "name": "Controllers",
+        "temp": {
+            "parentName": "Controllers"
+        }
+    },
+    {
+        "name": "Call Recording/Logging Devices",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "zz - One Time Vendor Products"
+    },
+    {
+        "name": "zz - One Time Vendor Products",
+        "temp": {
+            "parentName": "zz - One Time Vendor Products"
+        }
+    },
+    {
+        "name": "Repeaters",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Interface Boards/Cards",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Handsets",
+        "temp": {
+            "parentName": "Phones"
+        }
+    },
+    {
+        "name": "Chargers/Bases",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Cameras",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Room Systems"
+    },
+    {
+        "name": "Room Systems",
+        "temp": {
+            "parentName": "Room Systems"
+        }
+    },
+    {
+        "name": "Presale Design Support"
+    },
+    {
+        "name": "Presale Design Support",
+        "temp": {
+            "parentName": "Presale Design Support"
+        }
+    },
+    {
+        "name": "ScanSource Services Group"
+    },
+    {
+        "name": "ScanSource Services Group",
+        "temp": {
+            "parentName": "ScanSource Services Group"
+        }
+    },
+    {
+        "name": "zz - Demo Products"
+    },
+    {
+        "name": "zz - Demo Products",
+        "temp": {
+            "parentName": "zz - Demo Products"
+        }
+    },
+    {
+        "name": "Verifiers"
+    },
+    {
+        "name": "Verifiers",
+        "temp": {
+            "parentName": "Verifiers"
+        }
+    },
+    {
+        "name": "Microphones & Speakers",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "System Bundles"
+    },
+    {
+        "name": "System Bundles",
+        "temp": {
+            "parentName": "System Bundles"
+        }
+    },
+    {
+        "name": "Routers"
+    },
+    {
+        "name": "Routers",
+        "temp": {
+            "parentName": "Routers"
+        }
+    },
+    {
+        "name": "Tags",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Tag Accessories",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Detachers and Deactivators",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Detection Systems"
+    },
+    {
+        "name": "Pedestals and Panels",
+        "temp": {
+            "parentName": "Detection Systems"
+        }
+    },
+    {
+        "name": "Controllers",
+        "temp": {
+            "parentName": "Detection Systems"
+        }
+    },
+    {
+        "name": "Labels",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Alarms",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Protective Accessories",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Sensors and Counters",
+        "temp": {
+            "parentName": "Detection Systems"
+        }
+    },
+    {
+        "name": "Input Devices"
+    },
+    {
+        "name": "Keyboards",
+        "temp": {
+            "parentName": "Input Devices"
+        }
+    },
+    {
+        "name": "Magnetic Stripe Readers",
+        "temp": {
+            "parentName": "Readers"
+        }
+    },
+    {
+        "name": "Sub-Contracted Services"
+    },
+    {
+        "name": "Sub-Contracted Services",
+        "temp": {
+            "parentName": "Sub-Contracted Services"
+        }
+    },
+    {
+        "name": "Non-Touch",
+        "temp": {
+            "parentName": "Monitors"
+        }
+    },
+    {
+        "name": "Cards",
+        "temp": {
+            "parentName": "Media & Supplies"
+        }
+    },
+    {
+        "name": "Laminates & Overlays",
+        "temp": {
+            "parentName": "Media & Supplies"
+        }
+    },
+    {
+        "name": "Badging Supplies & Media"
+    },
+    {
+        "name": "Card Punches",
+        "temp": {
+            "parentName": "Badging Supplies & Media"
+        }
+    },
+    {
+        "name": "Card Printing",
+        "temp": {
+            "parentName": "Software"
+        }
+    },
+    {
+        "name": "Encoders",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Card Printers"
+    },
+    {
+        "name": "Card Printers",
+        "temp": {
+            "parentName": "Card Printers"
+        }
+    },
+    {
+        "name": "Tickets",
+        "temp": {
+            "parentName": "Media & Supplies"
+        }
+    },
+    {
+        "name": "Tag Stock",
+        "temp": {
+            "parentName": "Media & Supplies"
+        }
+    },
+    {
+        "name": "Clips and Straps",
+        "temp": {
+            "parentName": "Badging Supplies & Media"
+        }
+    },
+    {
+        "name": "Card Printer",
+        "temp": {
+            "parentName": "Print Heads"
+        }
+    },
+    {
+        "name": "Card Feeders/Hoppers",
+        "temp": {
+            "parentName": "Accessories"
+        }
+    },
+    {
+        "name": "Wristband Printers"
+    },
+    {
+        "name": "Wristband Printers",
+        "temp": {
+            "parentName": "Wristband Printers"
+        }
+    }
+]
